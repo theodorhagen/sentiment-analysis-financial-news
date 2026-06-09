@@ -4,7 +4,7 @@
 
 ## Task 2: Text Preprocessing
 
-For the text proprecossing, we adopted a pipeline consisting of multiple steps, namely:
+For the text preprecossing, we adopted a pipeline consisting of multiple steps, namely:
 
 - Lowercasing
 - Denoising
